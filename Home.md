@@ -12,13 +12,15 @@ SparkFun Inventor’s kit:
 1 x Motor Driver   
 
 # Assembly Procedures
-Provide basic summary of steps performed in lab (Do not copy and paste from lab assignment.) The important part here is to provide detail that you had to develop in the lab which will be more important in later labs.
-You must include Schematics, Engineering Drawings, and Programming if appropriate in this section.
-1. This is step 1.
-2. This is step 2.
-3. This is step 3.
-I am now including an image as an example: 
-![](https://github.com/joedvorak/BAE305-Sp19-Lab1/blob/master/Repository%20Creation.png)
+Part 1 Learn to listen   
+1. Connect the ultrasonic sensor to the breadboard
+2. Connect VCC to 5V, trigger to digital pin 11, echo to digital pin 12, and GND to ground   
+![image](https://github.com/npla225/BAE305-SP24-Lab6/assets/156371043/67e6dd8f-52ae-47c7-a226-8e5408f8299f)
+**Figure 1. Schematic for part 1 ultrasonic sensor testing**
+   
+Part 2 Move it   
+1. Connect the motors, H bridge motor control circuit and the switch to the breadboard
+2. Connect
 
 # Test Equipment
 No test equipment required. 
