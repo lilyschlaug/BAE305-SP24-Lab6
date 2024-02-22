@@ -14,13 +14,18 @@ SparkFun Inventor’s kit:
 # Assembly Procedures
 Part 1 Learn to listen   
 1. Connect the ultrasonic sensor to the breadboard
-2. Connect VCC to 5V, trigger to digital pin 11, echo to digital pin 12, and GND to ground   
+2. Connect VCC to 5V, trig to digital pin 11, echo to digital pin 12, and GND to ground   
 ![image](https://github.com/npla225/BAE305-SP24-Lab6/assets/156371043/67e6dd8f-52ae-47c7-a226-8e5408f8299f)
 **Figure 1. Schematic for part 1 ultrasonic sensor testing**
    
 Part 2 Move it   
 1. Connect the motors, H bridge motor control circuit and the switch to the breadboard
-2. Connect
+2. Wire the circuit as shown below in Figure 2
+![image](https://github.com/npla225/BAE305-SP24-Lab6/assets/156371043/069c2648-5467-40fa-9448-06f6235e1100)
+**Figure 2. Schematic for motor control circuit**
+3. Integrate the circuit from Part 1 with the motor control circuit
+![image](https://github.com/npla225/BAE305-SP24-Lab6/assets/156371043/500cadee-dd8f-41e2-91d6-46d39ec3cbfb)
+**Figure 3. Schematic for integrated motor control and ultrasonic circuit**
 
 # Test Equipment
 No test equipment required. 
@@ -80,3 +85,6 @@ What is the minimum speed number for the motors to move forward?
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
 
 # Conclusion
+
+#Refrences 
+
