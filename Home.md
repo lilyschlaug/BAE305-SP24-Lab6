@@ -288,7 +288,8 @@ What is the minimum speed number for the motors to move forward?
 - Minimum to move : 35 
 
 # Conclusion
-
+The purpose of this lab was to provide an introduction to the ultrasonic sensor. This was done working initially with just the ultrasonic sensor and collecting distance readings collected from the sensor and displayed in the command window. The next requirement of the lab was to learn how to use the H bridge circuit for motor control and the programming format for how to operate both motors at the same time. Three motor settings were then established in the program by modifying the original code from spark fun. The section of the lab required the integration of the ultrasonic sensor into the motor control code and use it to stop the motors after an object comes into a specific range from the ultrasonic sensor. The distance value for the ultrasonic sensor had to be measured beforehand and stored before it could be inserted into the program. 
+ 
 # Refrences 
 Figures 1-3
 
