@@ -16,15 +16,18 @@ Part 1 Learn to listen
 1. Connect the ultrasonic sensor to the breadboard
 2. Connect VCC to 5V, trig to digital pin 11, echo to digital pin 12, and GND to ground   
 ![image](https://github.com/npla225/BAE305-SP24-Lab6/assets/156371043/67e6dd8f-52ae-47c7-a226-8e5408f8299f)
+
 **Figure 1. Schematic for part 1 ultrasonic sensor testing**
    
 Part 2 Move it   
 1. Connect the motors, H bridge motor control circuit and the switch to the breadboard
 2. Wire the circuit as shown below in Figure 2
 ![image](https://github.com/npla225/BAE305-SP24-Lab6/assets/156371043/069c2648-5467-40fa-9448-06f6235e1100)
+
 **Figure 2. Schematic for motor control circuit**
 3. Integrate the circuit from Part 1 with the motor control circuit
 ![image](https://github.com/npla225/BAE305-SP24-Lab6/assets/156371043/500cadee-dd8f-41e2-91d6-46d39ec3cbfb)
+
 **Figure 3. Schematic for integrated motor control and ultrasonic circuit**
 
 # Test Equipment
@@ -286,5 +289,7 @@ What is the minimum speed number for the motors to move forward?
 
 # Conclusion
 
-#Refrences 
+# Refrences 
+Figures 1-3
 
+JOEL_E_B. “Sparkfun Inventor’s Kit Experiment Guide - v4.0.” SparkFun Inventor’s Kit Experiment Guide - v4.0 - SparkFun Learn, learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v40/circuit-5c-autonomous-robot. Accessed 22 Feb. 2024. 
