@@ -1,11 +1,8 @@
-
-# Lab 6 -  Moving with Purpose: Sensing and Mobility
-for Basic Robot Applications
-
+# Lab 6 -  Moving with Purpose: Sensing and Mobility for Basic Robot Applications
 # By: Lily Schlaug and Noah Lane
 # Summary
-Lab goal; summary of work performed; summary of outcome
-Lab 1 will be somewhat different since this is an introduction to the equipment.
+This lab involved controlling the movement of robot wheels by developing a program to communicate instructions. An H-bridge was used to operate the motor. This setup allows us to interface the motor and control both direction and speed of motor rotation with minimal connections. This lab also introduced an ultrasonic sensor. This is a common sensor to use for object detection and measuring distances. The ultrasonic sensor was used to create a collision prevention measure, where the motor shuts off if an object gets within a certain distance.  
+
 # Materials
 List materials used in the lab (not the testing equipment, but that used to build the lab project)
 # Assembly Procedures
